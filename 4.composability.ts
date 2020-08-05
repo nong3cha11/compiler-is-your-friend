@@ -70,3 +70,8 @@ Question:
 1) What did you learn from this problem? Why would we want to refactor the code to be
 like the Composable implementation?
 */
+
+/**
+ *  เรียนรู้การใช้ generic type เพื่อใช้ในการ reuse function ในกรณีที่ type ที่ต่างกัน
+ * ลดการซ้ำซ้อนการเขียนโค้ด
+ */

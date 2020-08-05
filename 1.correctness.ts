@@ -12,3 +12,9 @@ Questions:
 1) How to ensure that the input is a string at compile time?
 2) What did you learn from this exercise?
 */
+function scriptAt(text: string): number {
+    return  text.indexOf('Script');
+}
+
+console.log(scriptAt('TypeScript'));
+/** เรียนรุ้การประกาศ type */
